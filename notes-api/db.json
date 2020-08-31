@@ -2,7 +2,7 @@
   "notes": [
     {
       "id": "1",
-      "title": "My First Note",
+      "title": "My First Notes",
       "items": [
         {
           "id": "1",
@@ -23,7 +23,7 @@
     },
     {
       "id": "2",
-      "title": "My Second Note",
+      "title": "My Second Notes",
       "items": [
         {
           "id": "1",
@@ -43,18 +43,14 @@
       ]
     },
     {
-      "title": "My Third Notes",
-      "items": [],
-      "id": "IYmJPae"
-    },
-    {
-      "title": "this is my new note",
-      "items": [],
-      "id": "QDgyP3t"
-    },
-    {
       "title": "another note",
-      "items": [],
+      "items": [
+        {
+          "id": "1st item",
+          "title": "1st item",
+          "desc": "working"
+        }
+      ],
       "id": "GrG0f-P"
     }
   ]
