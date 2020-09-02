@@ -1,54 +1,34 @@
 {
   "notes": [
     {
-      "id": "1",
-      "title": "My First Notes"
-    },
-    {
       "id": "2",
-      "title": "My Second Notes"
+      "title": "1st note"
     },
     {
       "title": "Get a new job as React Developer",
       "id": "kIhlWZ8"
+    },
+    {
+      "title": "4th note",
+      "id": "p9aIV2u"
+    },
+    {
+      "title": "5th note",
+      "id": "GuuD9RU"
     }
   ],
   "items": [
     {
-      "id": "1",
-      "noteId": "1",
-      "title": "first item",
-      "desc": "this is description for first item"
-    },
-    {
-      "id": "2",
-      "noteId": "1",
-      "title": "second item",
-      "desc": "this is description for second item"
-    },
-    {
-      "id": "3",
-      "noteId": "1",
-      "title": "third item",
-      "desc": "this is description for third item"
-    },
-    {
       "id": "4",
       "noteId": "2",
-      "title": "first item from second note",
-      "desc": "this is description for first item"
+      "title": "first item",
+      "desc": "first description modified"
     },
     {
       "id": "5",
       "noteId": "2",
       "title": "first item from second note",
-      "desc": "this is description for first item"
-    },
-    {
-      "id": "6",
-      "noteId": "2",
-      "title": "third item",
-      "desc": "this is description for third item"
+      "desc": "this is description"
     },
     {
       "id": "7",
@@ -75,10 +55,16 @@
       "id": "X9RfPcM"
     },
     {
-      "noteId": "1",
-      "title": "another item",
-      "desc": "another item",
-      "id": "q0HcpYz"
+      "noteId": "p9aIV2u",
+      "title": "new item modified",
+      "desc": "new description modified",
+      "id": "lc4bQln"
+    },
+    {
+      "noteId": "GuuD9RU",
+      "title": "new item",
+      "desc": "new desc",
+      "id": "pIpkXyU"
     }
   ]
 }
